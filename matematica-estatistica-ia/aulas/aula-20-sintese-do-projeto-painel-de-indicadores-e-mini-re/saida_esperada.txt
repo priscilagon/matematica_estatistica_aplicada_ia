@@ -1,0 +1,9 @@
+          dias  media  mediana    dp  minimo  maximo
+periodo                                             
+enchente   150  21.29    21.14  3.16   16.43   26.70
+cheia       92  27.81    27.98  0.59   26.38   28.60
+vazante     60  21.65    21.95  2.70   17.40   26.27
+seca        60  16.26    16.13  0.33   15.92   17.27
+
+Correlação cota x temperatura: -0.943
+Temperatura média: 28.56 °C | IC95% = [28.47 ; 28.65]

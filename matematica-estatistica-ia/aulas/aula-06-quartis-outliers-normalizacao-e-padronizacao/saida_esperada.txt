@@ -1,0 +1,21 @@
+Temperatura  Q1=27.80 Q3=29.30 IQR=1.50  limites=[25.55 ; 31.55]
+          data  temperatura_c
+294 2025-10-22           38.5
+
+cheia     limites=[25.65 ; 30.08]  atípicos: []
+enchente  limites=[9.55 ; 33.01]  atípicos: [('18/03', 8.9)]
+seca      limites=[15.48 ; 16.92]  atípicos: [('01/10', 17.27), ('02/10', 17.2), ('03/10', 17.09), ('04/10', 16.97)]
+vazante   limites=[12.47 ; 30.75]  atípicos: [('09/08', 35.1)]
+
+Saltos maiores que 2 m entre dias seguidos:
+          data  cota_metros
+76  2025-03-18         8.90
+77  2025-03-19        23.80
+220 2025-08-09        35.10
+221 2025-08-10        24.74
+
+min-máx: mínimo=0.00 máximo=1.00
+z-score: média=0.00 desvio=1.00
+
+Com atípicos: 20,00 m vira 0.424
+Sem atípicos: 20,00 m vira 0.322

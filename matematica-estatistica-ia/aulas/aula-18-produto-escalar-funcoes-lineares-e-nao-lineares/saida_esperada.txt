@@ -1,0 +1,5 @@
+a . b = 23 (2*4 + 1*0 + 3*5)
+previsão = w.x + b = 10.4
+
+EQM da reta   : 15.851
+EQM do grau 3 : 2.807

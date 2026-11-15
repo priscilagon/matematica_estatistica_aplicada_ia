@@ -1,0 +1,10 @@
+média 19.166666666666668 mediana 18.5 amplitude 10
+var pop 10.8056 | var am 12.9667
+dp pop 3.2872 | dp am 3.6009
+Q1 17.73 Q3 26.67
+limites temperatura: 25.55 ; 31.55
+          data  temperatura_c
+294 2025-10-22           38.5
+r cota x temp: -0.924
+cheia média 27.81 | dp 0.594
+seca média 16.26 | dp 0.334

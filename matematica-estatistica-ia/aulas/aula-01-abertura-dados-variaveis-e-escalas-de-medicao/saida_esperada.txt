@@ -1,0 +1,29 @@
+Linhas x colunas: (365, 7)
+        data  cota_metros  chuva_mm  temperatura_c alerta   periodo especie_coleta
+0 2025-01-01        18.01       4.4           29.4  baixo  enchente       tucunaré
+1 2025-01-02        18.02       1.2           29.6  baixo  enchente            NaN
+2 2025-01-03        18.10       5.4           29.6  baixo  enchente            NaN
+3 2025-01-04        18.05      19.5           29.7  baixo  enchente            NaN
+4 2025-01-05        18.22      19.0           29.1  baixo  enchente            NaN
+
+data              datetime64[us]
+cota_metros              float64
+chuva_mm                 float64
+temperatura_c            float64
+alerta                       str
+periodo                      str
+especie_coleta               str
+dtype: object
+
+alerta .....: ['alto', 'baixo', 'médio']
+periodo ....: ['cheia', 'enchente', 'seca', 'vazante']
+espécies ...: ['matrinxã', 'pacu', 'pirarucu', 'tambaqui', 'tucunaré']
+
+data                0
+cota_metros         0
+chuva_mm            0
+temperatura_c       0
+alerta              0
+periodo             0
+especie_coleta    312
+dtype: int64

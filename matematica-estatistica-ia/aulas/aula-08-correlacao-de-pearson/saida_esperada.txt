@@ -1,0 +1,8 @@
+Matriz de correlação (dados válidos):
+               cota_metros  chuva_mm  temperatura_c
+cota_metros          1.000    -0.093         -0.924
+chuva_mm            -0.093     1.000          0.019
+temperatura_c       -0.924     0.019          1.000
+
+Pearson cota x temperatura: r = -0.924 (r² = 0.853)
+r com a leitura de 38,5 °C: -0.830 | sem ela: -0.924

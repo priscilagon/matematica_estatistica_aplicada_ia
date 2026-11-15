@@ -1,0 +1,13 @@
+POPULAÇÃO (365 dias): média = 28.560 | desvio-padrão = 0.883
+
+Cinco amostras aleatórias de 30 dias:
+  amostra 1: média = 28.567
+  amostra 2: média = 28.450
+  amostra 3: média = 28.497
+  amostra 4: média = 28.470
+  amostra 5: média = 28.440
+
+1000 amostras: média das médias = 28.562 | desvio das médias = 0.155
+Erro-padrão teórico  sigma/raiz(n) = 0.161
+
+Viés: média só da seca = 29.678 (população: 28.560)

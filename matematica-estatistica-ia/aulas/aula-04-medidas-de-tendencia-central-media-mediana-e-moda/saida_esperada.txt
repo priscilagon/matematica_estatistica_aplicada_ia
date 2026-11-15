@@ -1,0 +1,15 @@
+COTA     média: 22.16 | mediana: 22.32
+         (moda de variável contínua quase nunca informa: cada valor aparece ~1 vez)
+CHUVA    média: 6.27 | mediana: 1.30 | moda: 0.0
+ALERTA   moda: baixo
+ESPÉCIE  moda: tambaqui
+
+Semana de 6 a 12/ago: [25.54, 25.36, 25.14, 35.1, 24.74, 24.59, 24.45]
+média: 26.42 | mediana: 25.14
+
+           mean  median
+periodo                
+cheia     27.81   27.98
+enchente  21.21   21.06
+seca      16.26   16.13
+vazante   21.87   22.04

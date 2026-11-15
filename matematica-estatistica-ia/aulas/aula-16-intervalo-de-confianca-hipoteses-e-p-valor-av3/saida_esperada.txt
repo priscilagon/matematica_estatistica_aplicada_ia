@@ -1,0 +1,7 @@
+Temperatura: média = 28.560 | IC95% = [28.469 ; 28.651]
+
+Cheia: 27.489 °C | Seca: 29.678 °C
+t = -39.178 | p-valor = 1.18e-70
+Decisão (alfa = 0,05): rejeita H0
+
+Dois sorteios do mesmo conjunto: p-valor = 0.901 -> não rejeita H0

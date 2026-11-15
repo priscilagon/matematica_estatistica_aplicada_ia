@@ -1,0 +1,9 @@
+Covariância cota x temperatura:
+[[20.528 -3.702]
+ [-3.702  0.782]]
+
+Covariância cota x chuva:
+[[20.528 -3.931]
+ [-3.931 86.63 ]]
+
+cov (cota em m) = -3.702 | cov (cota em cm) = -370.185

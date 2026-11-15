@@ -1,0 +1,11 @@
+P(A)   = 0.3425   (125 de 365 dias)
+P(B)   = 0.5342
+P(A e B) = 0.1671
+
+Regra da soma  : 0.7096
+Contagem direta: 0.7096
+
+P(A)*P(B)      : 0.1830  <- compare com P(A e B) = 0.1671
+Dias com A e B: esperado se independentes = 66.8 | observado = 61
+
+P(não A) = 0.6575

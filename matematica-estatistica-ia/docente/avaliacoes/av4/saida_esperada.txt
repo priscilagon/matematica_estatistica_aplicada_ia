@@ -1,0 +1,13 @@
+[[ 2  8]
+ [ 7 19]]
+passo 0: w=1.0000 loss=4.6667 grad=-9.3333
+passo 1: w=1.9333 loss=0.0207 grad=-0.6222
+passo 2: w=1.9956 loss=0.0001 grad=-0.0415
+w após 3 passos: 1.9997
+          count   mean  median   std
+periodo                             
+cheia        92  27.81   27.98  0.59
+enchente    150  21.29   21.14  3.16
+seca         60  16.26   16.13  0.33
+vazante      60  21.65   21.95  2.70
+r = -0.943

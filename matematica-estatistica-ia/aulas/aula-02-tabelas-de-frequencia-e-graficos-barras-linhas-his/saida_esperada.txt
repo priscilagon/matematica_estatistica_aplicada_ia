@@ -1,0 +1,16 @@
+                freq_abs  freq_rel_%
+especie_coleta                      
+tambaqui              22        41.5
+tucunaré              14        26.4
+matrinxã               8        15.1
+pirarucu               6        11.3
+pacu                   3         5.7
+
+cota_metros
+(8, 12]       1
+(12, 16]     15
+(16, 20]    125
+(20, 24]     77
+(24, 28]    102
+(28, 36]     45
+Name: count, dtype: int64

@@ -1,0 +1,11 @@
+cota x temperatura: r = -0.924
+  -> a temperatura 'causa' a cota? Improvável: a ESTAÇÃO do ano move as duas.
+
+cota x chuva (mesmo dia): r = -0.093
+cota x chuva acumulada dos 30 dias anteriores: r = 0.135
+  -> r perto de zero mede só a relação LINEAR; não prova que 'não há relação'.
+
+cota x dia do ano (da enchente até o pico): r = 0.943
+
+sorvete x afogamentos: r = 0.535
+controlando o calor:     r = 0.008

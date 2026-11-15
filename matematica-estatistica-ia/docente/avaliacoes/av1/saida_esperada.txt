@@ -1,0 +1,20 @@
+(365, 7)
+data                0
+cota_metros         0
+chuva_mm            0
+temperatura_c       0
+alerta              0
+periodo             0
+especie_coleta    312
+dtype: int64
+          dias  minimo  maximo  media
+periodo                              
+enchente   151    8.90   26.70  21.21
+cheia       92   26.38   28.60  27.81
+vazante     61   17.40   35.10  21.87
+seca        61   15.92   17.27  16.26
+alerta
+baixo    141
+alto     125
+médio     99
+Name: count, dtype: int64

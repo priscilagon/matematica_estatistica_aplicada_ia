@@ -1,0 +1,36 @@
+Forma da matriz X: (364, 3) -> (observações, features)
+Primeiras 3 linhas:
+ [[18.01  4.4  29.4 ]
+ [18.02  1.2  29.6 ]
+ [18.1   5.4  29.6 ]]
+
+Vetor do dia 1: [18.01  4.4  29.4 ] | dimensão: 3
+
+Vetor de médias das colunas: [22.174  6.286 28.56 ]
+Matriz transposta X.T: (3, 364)
+
+A + B =
+ [[ 6  8]
+ [10 12]]
+2 * A =
+ [[2 4]
+ [6 8]]
+A @ B (produto matricial) =
+ [[19 22]
+ [43 50]]
+
+Médias mensais (matriz 12x3):
+       cota_metros  chuva_mm  temperatura_c
+data                                      
+1           18.99      9.22          29.15
+2           21.36      7.89          28.64
+3           23.04     12.30          28.39
+4           25.67      6.13          27.97
+5           27.45      8.06          27.62
+6           28.33      3.41          27.34
+7           27.69      5.57          27.51
+8           24.34      1.78          28.15
+9           19.33      3.46          29.11
+10          16.42      4.87          29.69
+11          16.11      6.08          29.66
+12          17.14      6.56          29.53

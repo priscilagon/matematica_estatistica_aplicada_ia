@@ -1,0 +1,10 @@
+            n  amplitude  var_pop  var_amostral  dp_pop  dp_amostral
+periodo                                                             
+enchente  151      17.80   10.835        10.907   3.292        3.303
+cheia      92       2.22    0.349         0.352   0.590        0.594
+vazante    61      17.70    9.956        10.122   3.155        3.181
+seca       61       1.35    0.110         0.111   0.331        0.334
+
+pandas  .std()      : 0.5937
+numpy   np.std(x)   : 0.5905
+numpy   ddof=1      : 0.5937

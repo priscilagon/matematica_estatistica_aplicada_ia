@@ -1,0 +1,6 @@
+P(alarme)         = 0.3260
+P(cheia | alarme) = 0.8282
+
+P(alto)=0.342  P(chuva>10)=0.252  P(chuva>10 | alto)=0.272
+P(alto | chuva>10) por Bayes : 0.3696
+P(alto | chuva>10) direto    : 0.3696  (devem coincidir)

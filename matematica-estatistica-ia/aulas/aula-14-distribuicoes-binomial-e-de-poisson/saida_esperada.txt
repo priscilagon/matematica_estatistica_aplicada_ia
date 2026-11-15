@@ -1,0 +1,13 @@
+p = 0.3425 | esperado em 30 dias: 10.3 | desvio-padrão: 2.60
+P(X = 10)  = 0.1522
+P(X >= 15) = 0.0546
+
+Dias de chuva forte por mês: [1, 0, 3, 0, 1, 1, 0, 0, 1, 0, 0, 0]
+lambda (média mensal) = 0.583
+P(0 dias)   = 0.5580
+P(>= 3 dias) = 0.0215
+k=0  observado=7 meses | esperado=6.70 meses
+k=1  observado=4 meses | esperado=3.91 meses
+k=2  observado=0 meses | esperado=1.14 meses
+k=3  observado=1 meses | esperado=0.22 meses
+k=4  observado=0 meses | esperado=0.03 meses

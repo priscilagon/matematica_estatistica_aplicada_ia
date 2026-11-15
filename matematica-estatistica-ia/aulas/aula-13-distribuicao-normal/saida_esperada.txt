@@ -1,0 +1,8 @@
+Temperatura da água: média = 28.560 °C | desvio-padrão = 0.884 °C
+
+P(T < 28,0) = 0.2634
+P(T > 30,0) = 0.0517
+P(27 < T < 30) = 0.9094
+dentro de 1 desvio(s): 61.5% dos dias
+dentro de 2 desvio(s): 99.2% dos dias
+dentro de 3 desvio(s): 100.0% dos dias

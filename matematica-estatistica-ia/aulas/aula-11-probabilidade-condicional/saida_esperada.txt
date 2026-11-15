@@ -1,0 +1,24 @@
+P(alto | choveu)       = 0.3128
+P(choveu | alto)       = 0.4880
+
+Contagens:
+chuva_mm  choveu  não choveu
+alerta                      
+alto          61          64
+baixo         79          62
+médio         55          44
+
+Proporção de cada alerta DENTRO de cada coluna (condicional a chuva):
+chuva_mm  False  True 
+alerta                
+alto      0.376  0.313
+baixo     0.365  0.405
+médio     0.259  0.282
+
+P(choveu | período):
+periodo
+cheia       0.446
+enchente    0.755
+seca        0.475
+vazante     0.180
+Name: chuva_mm, dtype: float64

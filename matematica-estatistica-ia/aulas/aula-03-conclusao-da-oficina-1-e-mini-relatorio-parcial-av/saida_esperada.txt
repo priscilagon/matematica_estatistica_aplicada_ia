@@ -1,0 +1,6 @@
+          dias  minimo  maximo
+periodo                       
+enchente   151    8.90   26.70
+cheia       92   26.38   28.60
+vazante     61   17.40   35.10
+seca        61   15.92   17.27

@@ -1,0 +1,6 @@
+P(alto) = 0.3425
+P(chuva>10) = 0.2521
+P(alto | chuva>10) = 0.3696
+P(chuva>10 | alto) = 0.2720
+cheia: n=92 média=27.814 dp=0.594 IC95%=[27.691 ; 27.937]
+P(X>=15 dias altos em 30) = 0.0546
